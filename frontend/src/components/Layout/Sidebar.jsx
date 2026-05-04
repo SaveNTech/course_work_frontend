@@ -13,7 +13,7 @@ export default function Sidebar() {
   return (
     <aside className="sidebar">
       <div className="sidebar-logo">
-        <h1>СистемаУчёта</h1>
+        <h1>DTL CRM</h1>
         <span>Продажи и распределение</span>
       </div>
       <nav className="sidebar-nav">

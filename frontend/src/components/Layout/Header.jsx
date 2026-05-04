@@ -10,7 +10,7 @@ const titles = {
 
 export default function Header() {
   const { pathname } = useLocation()
-  const title = titles[pathname] ?? 'СистемаУчёта'
+  const title = titles[pathname] ?? 'DTL CRM'
   const today = new Date().toLocaleDateString('ru-RU', {
     day: 'numeric', month: 'long', year: 'numeric',
   })
