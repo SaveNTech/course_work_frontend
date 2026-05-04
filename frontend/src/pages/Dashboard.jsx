@@ -96,7 +96,7 @@ export default function Dashboard() {
         <div className="card">
           <div className="card-header">
             <span className="card-title">Динамика выручки</span>
-            <span className="text-muted">Май 2024 — Апр 2025</span>
+            <span className="text-muted">Май 2025 — Апр 2026</span>
           </div>
           <div className="card-body">
             <ResponsiveContainer width="100%" height={230}>

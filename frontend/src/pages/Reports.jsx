@@ -28,7 +28,7 @@ export default function Reports() {
       <div className="page-header">
         <div>
           <h1 className="page-title">Отчёты и аналитика</h1>
-          <p className="page-subtitle">Май 2024 — Апр 2025</p>
+          <p className="page-subtitle">Май 2025 — Апр 2026</p>
         </div>
       </div>
 

@@ -28,7 +28,7 @@ export default function Sidebar() {
           </NavLink>
         ))}
       </nav>
-      <div className="sidebar-footer">v1.0.0 · 2025</div>
+      <div className="sidebar-footer">v1.0.0 · 2026</div>
     </aside>
   )
 }
